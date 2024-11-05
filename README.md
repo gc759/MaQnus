@@ -19,7 +19,6 @@ Ensure the following packages are installed:
 - `numpy`
 - `matplotlib`
 - `scipy`
-- `pickle`
 
 ## Usage
 
