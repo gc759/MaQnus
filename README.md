@@ -20,7 +20,7 @@ Ensure the following packages are installed:
 - `matplotlib`
 - `scipy`
 
-## Usage
+## Quick Start
 
 Open the `Demostration.ipynb` notebook and execute each cell to configure parameters, compute solutions, and compare methods.
 
