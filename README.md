@@ -10,8 +10,8 @@ This repository includes essential Python functions and a Jupyter Notebook that 
 
 ### Key Components
 
-- **Python Files (`.py` files)**: Modules with key functions and algorithms needed for quantum simulation.
 - **`Demostration.ipynb`**: The main demonstration notebook where users can explore each method and configure parameters.
+- **Python Files (`.py` files)**: Modules with key functions and algorithms needed for quantum simulation.
 
 ## Prerequisites
 
